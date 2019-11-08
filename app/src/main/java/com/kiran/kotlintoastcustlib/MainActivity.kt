@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         //=====Kiran CH======
         setContentView(R.layout.activity_main)
+        //====Kiran Ch========
     }
 }
